@@ -91,7 +91,7 @@ STANDARD
   9
 $CLAYER
   8
-rails-courbes-reverse
+rails-courbes-reverse2
   9
 $CELTYPE
   6
@@ -2307,7 +2307,7 @@ AcDbLayerTableRecord
   2
 rails-courbes
  70
-    5
+    4
  62
     7
   6
@@ -2351,7 +2351,7 @@ AcDbLayerTableRecord
   2
 rails-courbes-reverse2
  70
-    1
+    0
  62
     7
   6
