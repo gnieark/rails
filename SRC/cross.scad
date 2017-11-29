@@ -2,6 +2,10 @@ linear_extrude (height=2)
         import (file="cross.dxf", layer="traverses", $fn=100);
     linear_extrude (height=2)
         import (file="cross.dxf", layer="traverses2", $fn=100);
+    linear_extrude (height=2)
+        import (file="cross.dxf", layer="base center", $fn=100);
+       
+        
         
 translate( [0,0,0.1]) 
     linear_extrude (height=4.5)
