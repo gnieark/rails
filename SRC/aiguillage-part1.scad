@@ -39,17 +39,17 @@ module aiguilles(){
                 import (file="rails.dxf", layer="aiguilles-down", $fn=500);
         
             translate([117.8,0,0.001])
-                cube([4.4,10,5]);  
+                cube([4.4,10,4.5]);  
         
             //ergot de blocage
             translate([117.8,72,0.001])
-                cube([4.4,3,4]);
+                cube([4.4,3,4.5]);
 
         
         }
     
                //nut hole
-       translate([100,5,2.5])
+       translate([100,5,2])
        rotate([0,90,0])    
        #cylinder( h=70, r=1.5,  $fn=500);
         
@@ -57,6 +57,6 @@ module aiguilles(){
     }
 }
 
-aiguillage();
-//aiguilles();
+//aiguillage();
+aiguilles();
         
