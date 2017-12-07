@@ -51,12 +51,12 @@ module aiguilles(){
                //nut hole
        translate([100,5,2])
        rotate([0,90,0])    
-       #cylinder( h=70, r=1.5,  $fn=500);
+       cylinder( h=70, r=1.5,  $fn=500);
         
     
     }
 }
 
-//aiguillage();
+aiguillage();
 aiguilles();
         
