@@ -9,7 +9,8 @@ linear_extrude (height=2)
   translate([0,0,2.64])
  linear_extrude (height=2)
  import (file="all.dxf", layer="chassis", $fn=500);
- 
+
+
  translate([0,0,9])
  linear_extrude (height=2)
  import (file="all.dxf", layer="transition-bacs", $fn=500);
@@ -32,4 +33,10 @@ linear_extrude (height=2)
  translate([0,0,33.8165])
  linear_extrude (height=2)
   import (file="all.dxf", layer="bac-border-front", $fn=500);
+  
+ translate([50,10,0])
+ rotate([0,270,0])
+ linear_extrude (height=50)
+ 
+  import (file="all.dxf", layer="toit", $fn=500);
  
