@@ -23,7 +23,7 @@ $INSBASE
   9
 $EXTMIN
  10
--15.55166899820174
+-17.17666899820173
  20
 -33.5369240049491
  30
@@ -1121,9 +1121,9 @@ AcDbViewportTableRecord
  21
 1
  12
-12.34652724611867
+22.55936579657756
  22
--3.146219298238733
+8.143380824130437
  13
 0
  23
@@ -1149,7 +1149,7 @@ AcDbViewportTableRecord
  37
 0
  40
-22.59557496007817
+52.16165554915982
  41
 2.409282700421941
  42
@@ -2241,7 +2241,7 @@ AcDbLayerTableRecord
   2
 0
  70
-    5
+    0
  62
     7
   6
@@ -2373,7 +2373,7 @@ AcDbLayerTableRecord
   2
 mesures-roue-rail
  70
-    0
+    1
  62
     7
   6
@@ -2797,7 +2797,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-*D1
+*D3
  70
     0
 280
@@ -2815,7 +2815,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-*D3
+*D4
  70
     0
 280
@@ -2833,7 +2833,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-*D4
+*D2
  70
     0
 280
@@ -2851,7 +2851,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-*D2
+*D1
  70
     0
 280
@@ -2955,7 +2955,7 @@ AcDbEntity
 100
 AcDbBlockBegin
   2
-*D1
+*D3
  70
     1
  10
@@ -2963,247 +2963,13 @@ AcDbBlockBegin
  20
 0
   3
-*D1
+*D3
   1
 
   0
 LINE
   5
 63
-100
-AcDbEntity
-  8
-mesures-roue-rail
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
--11.95293567630381
- 20
--27.21638532770414
- 11
--11.95293567630381
- 21
--13.216385234163
-  0
-SOLID
-  5
-64
-100
-AcDbEntity
-  8
-mesures-roue-rail
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbTrace
- 10
--11.95293567630381
- 20
--22.21638532770414
- 30
-0
- 11
--11.53665101853097
- 21
--24.71638532770414
- 31
-0
- 12
--12.36922033407665
- 22
--24.71638532770414
- 32
-0
- 13
--12.36922033407665
- 23
--24.71638532770414
- 33
-0
-  0
-SOLID
-  5
-65
-100
-AcDbEntity
-  8
-mesures-roue-rail
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbTrace
- 10
--11.95293567630381
- 20
--18.216385234163
- 30
-0
- 11
--12.36922033407665
- 21
--15.716385234163
- 31
-0
- 12
--11.53665101853097
- 22
--15.716385234163
- 32
-0
- 13
--11.53665101853097
- 23
--15.716385234163
- 33
-0
-  0
-MTEXT
-  5
-66
-100
-AcDbEntity
-  8
-mesures-roue-rail
-  6
-CONTINUOUS
- 62
-    0
-370
-   -2
-100
-AcDbMText
- 10
--13.07793567630381
- 20
--20.21638528093357
- 30
-0
- 40
-1
- 41
-4
- 71
-    5
- 72
-    1
-  1
-4.0000
-  7
-standard
-210
-0
-220
-0
-230
-1
- 50
-89.99999999999999
- 73
-    2
- 44
-1
-  0
-LINE
-  5
-67
-100
-AcDbEntity
-  8
-mesures-roue-rail
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
--5.881015133294619
- 20
--22.21638532770414
- 11
--13.20293567630381
- 21
--22.21638532770414
-  0
-LINE
-  5
-68
-100
-AcDbEntity
-  8
-mesures-roue-rail
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
--8.125
- 20
--18.216385234163
- 11
--13.20293567630381
- 21
--18.216385234163
-  0
-ENDBLK
-  5
-59
-330
-57
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockEnd
-  0
-BLOCK
-  5
-5B
-330
-5A
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockBegin
-  2
-*D3
- 70
-    1
- 10
-0
- 20
-0
-  3
-*D3
-  1
-
-  0
-LINE
-  5
-69
 100
 AcDbEntity
   8
@@ -3227,7 +2993,7 @@ AcDbLine
   0
 SOLID
   5
-6A
+64
 100
 AcDbEntity
   8
@@ -3267,7 +3033,7 @@ AcDbTrace
   0
 SOLID
   5
-6B
+65
 100
 AcDbEntity
   8
@@ -3307,7 +3073,7 @@ AcDbTrace
   0
 MTEXT
   5
-6C
+66
 100
 AcDbEntity
   8
@@ -3353,7 +3119,7 @@ standard
   0
 LINE
   5
-6D
+67
 100
 AcDbEntity
   8
@@ -3377,7 +3143,7 @@ AcDbLine
   0
 LINE
   5
-6E
+68
 100
 AcDbEntity
   8
@@ -3401,9 +3167,9 @@ AcDbLine
   0
 ENDBLK
   5
-5C
+59
 330
-5A
+57
 100
 AcDbEntity
   8
@@ -3413,9 +3179,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-5E
+5B
 330
-5D
+5A
 100
 AcDbEntity
   8
@@ -3437,7 +3203,7 @@ AcDbBlockBegin
   0
 LINE
   5
-6F
+69
 100
 AcDbEntity
   8
@@ -3461,7 +3227,7 @@ AcDbLine
   0
 SOLID
   5
-70
+6A
 100
 AcDbEntity
   8
@@ -3501,7 +3267,7 @@ AcDbTrace
   0
 SOLID
   5
-71
+6B
 100
 AcDbEntity
   8
@@ -3541,7 +3307,7 @@ AcDbTrace
   0
 MTEXT
   5
-72
+6C
 100
 AcDbEntity
   8
@@ -3587,7 +3353,7 @@ standard
   0
 LINE
   5
-73
+6D
 100
 AcDbEntity
   8
@@ -3611,7 +3377,7 @@ AcDbLine
   0
 LINE
   5
-74
+6E
 100
 AcDbEntity
   8
@@ -3635,9 +3401,9 @@ AcDbLine
   0
 ENDBLK
   5
-5F
+5C
 330
-5D
+5A
 100
 AcDbEntity
   8
@@ -3647,9 +3413,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-61
+5E
 330
-60
+5D
 100
 AcDbEntity
   8
@@ -3671,7 +3437,7 @@ AcDbBlockBegin
   0
 LINE
   5
-75
+6F
 100
 AcDbEntity
   8
@@ -3695,7 +3461,7 @@ AcDbLine
   0
 SOLID
   5
-76
+70
 100
 AcDbEntity
   8
@@ -3735,7 +3501,7 @@ AcDbTrace
   0
 SOLID
   5
-77
+71
 100
 AcDbEntity
   8
@@ -3775,7 +3541,7 @@ AcDbTrace
   0
 MTEXT
   5
-78
+72
 100
 AcDbEntity
   8
@@ -3821,7 +3587,7 @@ standard
   0
 LINE
   5
-79
+73
 100
 AcDbEntity
   8
@@ -3845,7 +3611,7 @@ AcDbLine
   0
 LINE
   5
-7A
+74
 100
 AcDbEntity
   8
@@ -3866,6 +3632,240 @@ AcDbLine
 -13.20293567630381
  21
 -6.886161746648882e-17
+  0
+ENDBLK
+  5
+5F
+330
+5D
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+61
+330
+60
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*D1
+ 70
+    1
+ 10
+0
+ 20
+0
+  3
+*D1
+  1
+
+  0
+LINE
+  5
+75
+100
+AcDbEntity
+  8
+mesures-roue-rail
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+-11.95293567630381
+ 20
+-27.21638532770414
+ 11
+-11.95293567630381
+ 21
+-13.216385234163
+  0
+SOLID
+  5
+76
+100
+AcDbEntity
+  8
+mesures-roue-rail
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbTrace
+ 10
+-11.95293567630381
+ 20
+-22.21638532770414
+ 30
+0
+ 11
+-11.53665101853097
+ 21
+-24.71638532770414
+ 31
+0
+ 12
+-12.36922033407665
+ 22
+-24.71638532770414
+ 32
+0
+ 13
+-12.36922033407665
+ 23
+-24.71638532770414
+ 33
+0
+  0
+SOLID
+  5
+77
+100
+AcDbEntity
+  8
+mesures-roue-rail
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbTrace
+ 10
+-11.95293567630381
+ 20
+-18.216385234163
+ 30
+0
+ 11
+-12.36922033407665
+ 21
+-15.716385234163
+ 31
+0
+ 12
+-11.53665101853097
+ 22
+-15.716385234163
+ 32
+0
+ 13
+-11.53665101853097
+ 23
+-15.716385234163
+ 33
+0
+  0
+MTEXT
+  5
+78
+100
+AcDbEntity
+  8
+mesures-roue-rail
+  6
+CONTINUOUS
+ 62
+    0
+370
+   -2
+100
+AcDbMText
+ 10
+-13.07793567630381
+ 20
+-20.21638528093357
+ 30
+0
+ 40
+1
+ 41
+4
+ 71
+    5
+ 72
+    1
+  1
+4.0000
+  7
+standard
+210
+0
+220
+0
+230
+1
+ 50
+89.99999999999999
+ 73
+    2
+ 44
+1
+  0
+LINE
+  5
+79
+100
+AcDbEntity
+  8
+mesures-roue-rail
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+-5.881015133294619
+ 20
+-22.21638532770414
+ 11
+-13.20293567630381
+ 21
+-22.21638532770414
+  0
+LINE
+  5
+7A
+100
+AcDbEntity
+  8
+mesures-roue-rail
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+-8.125
+ 20
+-18.216385234163
+ 11
+-13.20293567630381
+ 21
+-18.216385234163
   0
 ENDBLK
   5
@@ -6318,6 +6318,8 @@ AcDbDimension
    32
  71
     5
+ 72
+    0
   3
 Standard
  53
@@ -6380,6 +6382,8 @@ AcDbDimension
    32
  71
     5
+ 72
+    0
   3
 Standard
  53
@@ -6442,6 +6446,8 @@ AcDbDimension
    32
  71
     5
+ 72
+    0
   3
 Standard
  53
@@ -6504,6 +6510,8 @@ AcDbDimension
    32
  71
     5
+ 72
+    0
   3
 Standard
  53
